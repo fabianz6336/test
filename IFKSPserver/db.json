@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tom",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Small Jack",
+      "email": "smalljack@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Light Sally",
+      "email": "lightsally@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lucky Luke",
+      "email": "luckyluke@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Dark Molly",
+      "email": "darkmolly@gmail.com"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}

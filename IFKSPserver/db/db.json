@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Big Tomika",
+      "email": "bigtom@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": " Jack",
+      "email": "jack@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Lucky Luke",
+      "email": "luckyluke@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "Big Winnetou",
+      "email": "bigwinnetou@freemail.hu"
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "userId": 1
+    }
+  ]
+}
